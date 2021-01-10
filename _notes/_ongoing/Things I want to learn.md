@@ -5,6 +5,7 @@ Non-fic books, essays, and topics I want to explore. See also: [[Inspiration]].
 ### General topics
 - game theory
 - data storytelling
+- how to learn better
 
 ### Programming
 - javascript (currently learning through javascript30)
