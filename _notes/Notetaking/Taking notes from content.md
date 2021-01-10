@@ -1,6 +1,4 @@
- # Taking notes from content
- 
- ## The process
+## The process
  
 There are two types of notes that come from a piece of content:
 - Fleeting notes, which are temporary reminders of ideas
