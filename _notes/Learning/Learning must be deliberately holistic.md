@@ -1,4 +1,4 @@
-# Learning must be deliberately holistic
+## As a student, we must be intentional in connecting subjects
 
 Centuries ago, people used to only study "philosophy," where they would discuss wordly matters without subjects. Subjects came later, when everyone started to be educated because they needed jobs. Now, separate subjects are taught in a modular fashion, and while this may be useful when it comes to putting together a baseline curriculum for a population that needs to be successful in the workforce, it's not useful for drawing connections and *forming* knowledge.
 

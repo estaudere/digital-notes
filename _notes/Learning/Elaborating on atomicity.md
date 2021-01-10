@@ -1,4 +1,4 @@
-# Atomicity means notes are densely packed and free flowing
+## Atomicity means notes are densely packed and free flowing
 
 I want to go back to the metaphor of an atom. It is already clear what the size of the atom is and how it relates to the specificity of the notes—and how to use this property to [[Use notes to become a better writer]]. But what about other properties of atoms, like its movement or interaction with other atoms?
 
