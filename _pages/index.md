@@ -15,7 +15,7 @@ There's no index, but I'm sure you'll find a node graph of some sorts if you sno
 
 My [DMs are open on Twitter (@nehadesaraju)](https://twitter.com/nehadesaraju). Say hi! 👋
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 3em 1em; background: #0a0a0a; border-radius: 4px;">
   Why don't you start with <span style="font-weight: bold">[[Learning must be deliberately holistic]]</span> to get started on your exploration?
 </p>
 
