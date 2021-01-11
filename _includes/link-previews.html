@@ -1,21 +1,21 @@
 <!-- That file is not particularly elegant. This will need a refactor at some point. -->
 <style>
   content a.internal-link {
-    border-color: #8b88e6;
-    background-color: #efefff;
+    border-color: rgb(87, 99, 137);
+    background-color: rgb(157, 211, 216);
   }
 
   #tooltip-wrapper {
-    background: white;
+    background: black;
     padding: 1em;
-    border: 1px solid #ddd;
+    border: 1px solid rgb(12, 12, 12);
     border-radius: 4px;
     overflow: hidden;
     position: absolute;
     width: 400px;
     height: 250px;
     font-size: 0.8em;
-    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 5px 10px rgba(255, 255, 255, 0.1);
     opacity: 0;
     transition: opacity 100ms;
   }
@@ -27,7 +27,7 @@
 		bottom: 0;
 		left: 0;
 		pointer-events: none;
-		background-image: linear-gradient(to bottom, rgba(255,255,255, 0), rgba(255,255,255, 1) 90%);
+		background-image: linear-gradient(to bottom, rgba(0,0,0, 0), rgba(0,0,0, 1) 90%);
 		width: 100%;
 		height: 75px;
   }
