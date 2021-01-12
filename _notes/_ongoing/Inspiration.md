@@ -1,7 +1,4 @@
-# Inspiration
-#links
-
-A list of links and people that are cool.
+A list of #links and people that are cool.
 
 ## Wikis/Notes
 - [Andy's Notes](https://notes.andymatuschak.org/About_these_notes)
@@ -15,4 +12,5 @@ A list of links and people that are cool.
 - [Quantum Country](https://quantum.country/qcvc)
 
 ## Other
-- from me: No link is too trivial.
+- Campus Tours via [The Art of College](https://www.youtube.com/c/theartofcollege)
+- [Organize Your Music from Playlist Machinery](http://organizeyourmusic.playlistmachinery.com/)

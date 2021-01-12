@@ -1,0 +1,7 @@
+Recently, Pres. Trump was suspended permanently from Facebook and Twitter for instigating violence—other social networks quickly followed suit, just barely 12 days before the end of his administration.
+
+And although it is a great thing that social networks are able to deplatform a violent and influential fascist, it is also concerning that the power to deplatform people is vested in a handful of billionaires. I believe both opinions can coexist (but that is not to say that banning someone from a privately owned social media platform is in any way censorship of free speech). 
+
+This also all comes after years of social media networks suspending leftist revolutionary activists from their websites, particularly Black, indigenous, and transgender activists, while allowing fascism to continue organizing more or less unchecked.
+
+The need for a socially-owned social network has never been clearer. There are sites like Mastodon (a Twitter/Tumblr offshoot) that is made up of a federated network (a fediverse), like blockchain technology. I don't mean sites where "free speech" is the main selling point (sites like Gab or Parler)—I mean networks where decisions are made by the collective (for the most part) and (potentially) where ad revenue is shared among users, among other things. I'm not sure if such a thing could work in the age of the centralized internet, but this is something I do want to learn more about.

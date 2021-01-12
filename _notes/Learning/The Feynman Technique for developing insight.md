@@ -2,10 +2,11 @@ There are three steps to take once you've sufficiently looked at source material
 
 Here's a paper.
 
-| a topic i have just learned |
-| --- |
-| an explanation of the idea, as if I were teaching it to someone else |
-| where I stopped, because there are gaps in my knowledge |
+> **The topic I've just learned**
+
+> An explanation of the idea, as if I am explaining it to someone else
+
+> Where I stopped explaining because of gaps in my knowledge
 
 Where you stopped is where you know you have to dive into a topic deeper. Break the topic into chunks to make this process easier.
 

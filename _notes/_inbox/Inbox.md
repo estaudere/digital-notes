@@ -1,8 +1,12 @@
-# Inbox
+## Things to write about
 
-[[Todo]]
+See [[Todo]] for more.
 
-- [ ] write to think
+- [x] [[When in doubt, write]]
 - [ ] book/media review
 - [ ] book snippets/thoughts
-- [ ] interesting datasets
+- [x] [[Interesting datasets]]
+- [ ] Write about new knowledge in these notes, not brief notes
+- [ ] Collector's Fallacy
+
+## Thinks I want to look at later

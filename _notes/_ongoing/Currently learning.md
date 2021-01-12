@@ -6,3 +6,4 @@
 - Machine Learning (via Kaggle)
 - Storytelling With Data by Cole Knaflic
 - Writing YA (via Reedsy)
+- Machine Learning (via FreeCodeCamp)

@@ -1,8 +1,14 @@
-### Next projects
+### Notes
+- [[Interesting datasets]]
+- [[Parts of a visualization]]
+- [[The data storytelling exploratory process]]
+
+### Project ideas
 
 - [Analyzing Literature using NLP](https://kellylougheed.medium.com/coding-english-lit-natural-language-processing-in-python-ba8ebae4dde3) - analyze the great gatsby?
 - Model the spread of COVID in classrooms CHS [idea](https://stack.dailybruin.com/2020/05/12/covid-model/)
 - [Coppell census data](https://censusreporter.org/profiles/16000US4816612-coppell-tx/)
+- How does oil and gas money get to Congress? via [Follow the Money](https://www.followthemoney.org)
 
 
 ### Resources
