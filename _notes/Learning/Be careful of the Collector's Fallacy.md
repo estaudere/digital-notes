@@ -6,4 +6,4 @@ I'm guilty of it too. I often feel like I have just learned something knew when 
 
 In order to fight this, I am trying to be more mindful of the content I consume and what I do with it. These notes help me because I'm putting thoughts into a system and forming connections with it visually, instead of just in my head (where it's likely to never be seen again).
 
-I do keep certain links in some places, like [[Interesting datasets]] or [[Inspiration]] or [[Things I want to learn]] (sometimes in [[Inbox]]), but I try to limit the places I'm keeping links (mainly constrained by the categories of links I can keep, instead of an endless list).
+I do keep certain links in some places, like [[Interesting datasets]] or [[Inspiration]] or [[Personal learning map]] (sometimes in [[Inbox]]), but I try to limit the places I'm keeping links (mainly constrained by the categories of links I can keep, instead of an endless list).
