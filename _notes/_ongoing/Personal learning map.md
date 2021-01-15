@@ -4,7 +4,6 @@ Check out [Learn Anything](https://learn-anything.xyz/) or [Metacademy](https://
 
 ### Currently Learning
 
-> - ==Data Points by Nathan Yau==
 > - ==30 Days of JavaScript (via Wes Bos)==
 > - ==Machine Learning (via Kaggle)==
 > - Writing YA (via Reedsy) [on hold]
@@ -25,7 +24,7 @@ Check out [Learn Anything](https://learn-anything.xyz/) or [Metacademy](https://
 		- Information visualization
 			- Course: Enrico Bertini's Coursera specialization **[up next]**
 			- Book: Storytelling with Data (Cole Knaflic)
-			- ==Book: Data Points (Nathan Yau)==
+			- ~~Book: Data Points (Nathan Yau)~~
 		- Project: *How does oil/gas money get to Congress?*
 		- Project: *How has TikTok changed the music industry?* **[up next]**
 	- Machine learning
@@ -50,6 +49,9 @@ Check out [Learn Anything](https://learn-anything.xyz/) or [Metacademy](https://
 		- Animation
 			- Course: Natural Animation on Khan Academy
 		- Course: [The Odin Project](https://www.theodinproject.com/home)
+		- Generative Art
+			- Course: [Gen Art Workshop](https://github.com/mattdesl/workshop-generative-art)
+			- Examples: [Why Love Gen Art](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 	- HTML/CSS
 		- SCSS/Sass
 	- Website: How to [think about computer networks](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/)
@@ -69,7 +71,8 @@ Check out [Learn Anything](https://learn-anything.xyz/) or [Metacademy](https://
 ## Government & Politics
 
 - Tech
-	- [The Hacker Manifesto](https://books.google.ie/books?id=ZuHN7tgkcFIC)
+	- [The Hacker Manifesto](https://zelalemkibret.files.wordpress.com/2012/01/a-hacker-manifesto.pdf)
+	- [Technocapitalism](http://www.technocapitalism.com)
 
 ## Learning
 

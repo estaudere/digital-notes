@@ -2,6 +2,7 @@
 - [[Interesting datasets]]
 - [[Parts of a visualization]]
 - [[The data storytelling exploratory process]]
+- [[Finding relatability in data]]
 
 ### Project ideas
 
@@ -13,6 +14,7 @@
 
 ### Resources
 
+#links 
 - [Plan your newsroom project in 13 steps - NPR Data Storytelling](https://training.npr.org/2016/05/03/plan-your-newsroom-project-in-13-steps-and-with-lots-of-sticky-notes/)
 - [Activity: FInding a story in data - Data Therapy](https://datatherapy.org/activities/activity-finding-a-story-in-data/)
 - [How to plan your data story with a set of useful templates](https://medium.com/notes-from-the-classroom/data-story-templates-whats-your-data-driven-story-project-about-816da7929453)
@@ -25,3 +27,4 @@
 - [Fathom.info storytelling](https://fathom.info/notebook/)
 - [Visual Complexity](http://www.visualcomplexity.com/vc/project_details.cfm?id=454&index=454&domain=)
 - [NYT chartsnthings](http://chartsnthings.tumblr.com) & [WaPo postgraphics](http://postgraphics.tumblr.com)
+- [Datawrapper](https://www.datawrapper.de)

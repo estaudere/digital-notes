@@ -10,6 +10,7 @@ A list of #links and people that are cool.
 ## Tech
 - [Tech-political manifestos](https://github.com/era/wiki.anarchist-/blob/master/collective/tech-hacker/manifestos.md)
 - [Whimsical Websites](https://whimsical.club/1/)
+- [Dueling Data Projects](http://duelingdata.blogspot.com/p/projects.html)
 
 ## Other
 - Campus Tours via [The Art of College](https://www.youtube.com/c/theartofcollege)

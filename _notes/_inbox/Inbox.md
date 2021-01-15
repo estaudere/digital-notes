@@ -2,11 +2,20 @@
 
 See [[Todo]] for more.
 
-- [x] [[When in doubt, write]]
 - [ ] book/media review
 - [ ] book snippets/thoughts
-- [x] [[Interesting datasets]]
 - [ ] Write about new knowledge in these notes, not brief notes
-- [ ] Collector's Fallacy
+- [ ] Difference between data storytelling and data analysis [[Finding relatability in data]]
+- [ ] What are these notes?
 
-## Thinks I want to look at later
+## Things I want to look at later
+
+- https://nvd3.org/examples/multiBarHorizontal.html
+- https://code.tutsplus.com/tutorials/getting-started-with-paperjs-projects-and-items--cms-26481
+- https://www.andyshora.com/easy-paper-js-tutorial.html
+- https://d3js.org
+
+#links 
+	
+
+*For later: Links should go in any of the following places: [[Inspiration]], [[Personal learning map]] (for learning materials), [[_data]] (for resources), or [[_Notetaking and learning]](for resources).*
