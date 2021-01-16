@@ -28,3 +28,5 @@
 - [Visual Complexity](http://www.visualcomplexity.com/vc/project_details.cfm?id=454&index=454&domain=)
 - [NYT chartsnthings](http://chartsnthings.tumblr.com) & [WaPo postgraphics](http://postgraphics.tumblr.com)
 - [Datawrapper](https://www.datawrapper.de)
+- [Data is Plural Archive](https://tinyletter.com/data-is-plural/archive)
+- [Data Journalism](https://datajournalism.com).

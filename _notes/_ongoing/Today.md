@@ -5,7 +5,7 @@
 	- [ ] social media marketing
 - [ ] send invite for next week's decentralized comms thing
 - [ ] d3
-- [ ] 100 days of code (today and yesterday)
+- [ ] 100 days of code (today)
 - [ ] take a shower
 - [ ] harry potter project
 
