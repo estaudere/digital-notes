@@ -3,6 +3,7 @@
 - [[Parts of a visualization]]
 - [[The data storytelling exploratory process]]
 - [[Finding relatability in data]]
+- [[Creating a basic bar chart in D3]]
 
 ### Project ideas
 
@@ -30,3 +31,12 @@
 - [Datawrapper](https://www.datawrapper.de)
 - [Data is Plural Archive](https://tinyletter.com/data-is-plural/archive)
 - [Data Journalism](https://datajournalism.com).
+- [NYT Using Spreadsheets Resources](https://drive.google.com/drive/u/0/folders/1ZS57_40tWuIB7tV4APVMmTZ-5PXDwX9w)
+- Course: [Dataquest Data Storytelling](https://www.dataquest.io/course/storytelling-data-visualization)
+- [Python Graph Gallery](https://python-graph-gallery.com/)
+- [Data To Viz](https://www.data-to-viz.com/)
+- [D3 Graph Galley](https://www.d3-graph-gallery.com/index.html)
+- [Collection of the Best Visualization Software/Resources](https://www.visualisingdata.com/resources/)
+- [Paper JS Tutsplus Tutorial](https://code.tutsplus.com/tutorials/getting-started-with-paperjs-projects-and-items--cms-26481)
+- [Easy Paper JS Tutorial](https://www.andyshora.com/easy-paper-js-tutorial.html)
+- [D3 Docs/Examples](https://d3js.org)

@@ -6,14 +6,9 @@ See [[Todo]] for more.
 - [ ] book snippets/thoughts
 - [ ] Write about new knowledge in these notes, not brief notes
 - [ ] Difference between data storytelling and data analysis [[Finding relatability in data]]
-- [ ] What are these notes?
+- [ ] What are these notes? (connect to [[Using these notes]])
 
 ## Things I want to look at later
-
-- https://nvd3.org/examples/multiBarHorizontal.html
-- https://code.tutsplus.com/tutorials/getting-started-with-paperjs-projects-and-items--cms-26481
-- https://www.andyshora.com/easy-paper-js-tutorial.html
-- https://d3js.org
 
 #links 
 	

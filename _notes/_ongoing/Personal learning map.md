@@ -6,6 +6,7 @@ Check out [Learn Anything](https://learn-anything.xyz/) or [Metacademy](https://
 
 > - ==30 Days of JavaScript (via Wes Bos)==
 > - ==Machine Learning (via Kaggle)==
+> - ==Data Vizualization for the Web (Scott Murray)==
 > - Writing YA (via Reedsy) [on hold]
 > - Infoviz (via Coursera) with Enrico Bertolini [on hold]
 > - Storytelling with Data (Cole Knaflic) [on hold]
@@ -20,7 +21,7 @@ Check out [Learn Anything](https://learn-anything.xyz/) or [Metacademy](https://
 	- Data storytelling
 		- D3
 			- Website: Amelia Wattenberger's [D3 modules](https://wattenberger.com/blog/d3#intro)
-			- Book: Data Visualization for the Web (Scott Murray) **[up next]**
+			- ==Book: Data Visualization for the Web (Scott Murray)==
 		- Information visualization
 			- Course: Enrico Bertini's Coursera specialization **[up next]**
 			- Book: Storytelling with Data (Cole Knaflic)
@@ -57,6 +58,8 @@ Check out [Learn Anything](https://learn-anything.xyz/) or [Metacademy](https://
 	- Website: How to [think about computer networks](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/)
 	- Project: *My portfolio* **[up next]**
 	- Project: *Literal shoutbox?*
+- Web apps
+	- Course: [Learning Python Streamlit](https://www.freecodecamp.org/news/build-12-data-science-apps-with-python-and-streamlit/)
 - Blockchain
 	- Creating a [[The need for a socially-owned social network | socially-owned network]] 
 		- Project: *Build an [Instagram clone](https://www.freecodecamp.org/news/build-an-instagram-clone-with-react-native-firebase-firestore-redux-and-expo/)*

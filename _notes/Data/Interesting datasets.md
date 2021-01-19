@@ -8,6 +8,12 @@
 - Machine Learning Datasets from [Nikita Voloboev](https://wiki.nikitavoloboev.xyz/machine-learning/datasets)
 - [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/)
 - [Federal Student Aid Data](https://studentaid.gov/data-center/student)
-- 
+- [Government Justice Data](https://public.tableau.com/profile/neha.desaraju#!/vizhome/TexasCOVIDVaccinations/Dashboard1?publish=yes)
+- [Hospital-level COVID data](https://www.data.gov/meta/covid-19-is-complex-as-is-covid-19-open-data/)
+- [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [The Opportunty Project (U.S.)](https://opportunity.census.gov/data/)
+- [100 Basic Datasets](https://piktochart.com/blog/100-data-sets/)
+- [Fun, beginner-friendly datasets for ML](https://www.kaggle.com/rtatman/fun-beginner-friendly-datasets)
+- [Fun small datasets](http://veekaybee.github.io/2018/07/23/small-datasets/)
 
 #links 
